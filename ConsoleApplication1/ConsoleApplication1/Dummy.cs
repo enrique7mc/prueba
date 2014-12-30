@@ -9,5 +9,10 @@ namespace ConsoleApplication1
     public class Dummy
     {
         public int Data { get; set; }
+
+        public void NoAction()
+        {
+            Console.WriteLine("No action");
+        }
     }
 }
