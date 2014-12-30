@@ -9,5 +9,10 @@ namespace ConsoleApplication1
     class NewClass
     {
         // This is a class to test the new branch
+
+        void Method()
+        {
+            // method stub
+        }
     }
 }
