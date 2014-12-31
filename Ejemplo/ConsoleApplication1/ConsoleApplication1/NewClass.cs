@@ -15,5 +15,10 @@ namespace ConsoleApplication1
             // method stub
             Console.WriteLine("Change from another location");
         }
+
+        public int MethodTwo(int[] array)
+        {
+            return array.Single();
+        }
     }
 }
