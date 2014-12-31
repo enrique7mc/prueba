@@ -13,6 +13,7 @@ namespace ConsoleApplication1
         void Method()
         {
             // method stub
+            Console.WriteLine("Change from another location");
         }
     }
 }
